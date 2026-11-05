@@ -1,0 +1,7 @@
+pygame
+sounddevice
+numpy
+h5py
+scipy
+torch
+torchvision
